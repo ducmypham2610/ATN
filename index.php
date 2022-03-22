@@ -16,7 +16,7 @@
 <body>
     <!-- HEADER -->
     <header>
-        <h1> LAM KHANH </h1>
+        <h1> Mydepzai </h1>
         <div class="head--left">
             <!-- LOGO -->
             <img src='./img/nk.jpg ' alt="LOGO">
