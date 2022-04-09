@@ -184,7 +184,7 @@ textarea,
 
     <div class="footer-left">
 
-        <img src="./img/ATN.png" alt="LOGO">
+        <img src="./img/ATN.png" alt="LOGO"  class="logo">
 
         <p class="footer-links">
             <a href="#" class="link-1">Home</a>
