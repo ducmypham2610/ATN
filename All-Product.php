@@ -58,21 +58,10 @@
                     <a href="#">All product</a>
 
                     <div class="dropdown">
-                        <button class="dropbtn" >Clothing</button>
+                        <button class="dropbtn" >Toy</button>
                         <div class="dropdown-content">
-                        <a href="#">Man</a>
-                        <a href="./Tee.php">Woman</a>
-                        <a href="#">Unisex</a>
-                        </div>
-                      </div>
-
-                    <div class="dropdown">
-                        <button class="dropbtn">Sneaker</button>
-                        <div class="dropdown-content">
-                        <a href="./Vans.php">Vans</a>
-                        <a href="./Nike.php">Nike</a>
-                        <a href="./Adidas.php">Adidas</a>
-                        <a href="./Converse.php">Converse</a>
+                        <a href="#">Boys</a>
+                        <a href="./Tee.php">Girls</a>
                         </div>
                       </div>
                     
@@ -91,9 +80,8 @@
     <div class="container-fluid">
             <div class="categories">
                 <nav class="Gender">
-                    <a href="">Unisex</a>
-                    <a href="">Man</a>
-                    <a href="./Tee.php">Woman</a>
+                    <a href="">Boys</a>
+                    <a href="">Girls</a>
                 </nav>
                 <hr>
                 <h1>Sneaker</h1>
@@ -102,20 +90,11 @@
                     <li>Converse</li>
                     <li>Nike</li>
                     <li>Adidas</li> -->
-                        <li><a href="./Vans.php">Vans</a></li>
-                        <li><a href="./Nike.php">Nike</a></li>
-                        <li>   <a href="./Adidas.php">Adidas</a></li>
-                        <li> <a href="./Converse.php">Converse</a></li>
+                        <li><a href="./Vans.php">Smart toy</a></li>
+                        <li><a href="./Nike.php">Education</a></li>
+                        <li><a href="./Adidas.php">Baby</a></li>
                      
                        
-                </ul>
-                <hr>
-                <h1>Clothing</h1>
-                <ul class="sneaker-menu">
-                    <li>T-Shirt</li>
-                    <li>SweatShirt</li>
-                    <li>Jacket</li>
-                    <li>Pant</li>
                 </ul>
                 <hr>
                 <h1>Accessories</h1>
