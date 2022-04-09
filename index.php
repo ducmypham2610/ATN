@@ -16,7 +16,6 @@
 <body>
     <!-- HEADER -->
     <header>
-        <h1> Mydepzai </h1>
         <div class="head--left">
             <!-- LOGO -->
             <img src='./img/nk.jpg ' alt="LOGO">
@@ -57,21 +56,10 @@
                     <a href="All-Product.php">All product</a>
 
                     <div class="dropdown">
-                        <button class="dropbtn">Clothing</button>
+                        <button class="dropbtn">Toy</button>
                         <div class="dropdown-content">
-                        <a href="#">Man</a>
-                        <a href="#">Woman</a>
-                        <a href="#">Unisex</a>
-                        </div>
-                      </div>
-
-                    <div class="dropdown">
-                        <button class="dropbtn">Sneaker</button>
-                        <div class="dropdown-content">
-                        <a href="#">Vans</a>
-                        <a href="#">Nike</a>
-                        <a href="#">Adidas</a>
-                        <a href="#">Converse</a>
+                        <a href="#">Boys</a>
+                        <a href="#">Girls</a>
                         </div>
                       </div>
                     
