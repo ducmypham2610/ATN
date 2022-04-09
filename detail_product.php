@@ -26,7 +26,7 @@ require_once("connect.php");
   <header>
         <div class="head--left">
             <!-- LOGO -->
-            <img src='./img/ATN.png ' alt="LOGO">
+            <img src='./img/ATN.png ' alt="LOGO"  class="logo">
         </div>
          
         <div class="head--right">
@@ -161,5 +161,70 @@ require_once("connect.php");
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   
+  
+    <!-- FOOTER -->
+    <footer class="footer-distributed">
+
+    <div class="footer-left">
+
+        <img src="./img/ATN.png" alt="LOGO"  class="logo">
+
+        <p class="footer-links">
+            <a href="#" class="link-1">Home</a>
+            
+            <a href="#">Blog</a>
+        
+            <a href="#">Pricing</a>
+        
+            <a href="#">About</a>
+            
+            <a href="#">Faq</a>
+            
+            <a href="#">Contact</a>
+        </p>
+
+        <p class="footer-company-name">N'Kien © 2019</p>
+    </div>
+
+    <div class="footer-center">
+
+        <div>
+            <i class="bi bi-map"></i>
+            <p><span>No 1911, Thuy Hai Village</span> Thai Thuy District, Thai Binh</p>
+        </div>
+
+        <div>
+            <i class="bi bi-telephone"></i>
+            <p>+84.962.62.1911</p>
+        </div>
+
+        <div>
+            <i class="bi bi-envelope"></i>
+            <p><a href="kienndbhaf200045@fpt.edu.vn">kienndbhaf200045@fpt.edu.vn</a></p>
+        </div>
+
+    </div>
+
+    <div class="footer-right">
+
+        <p class="footer-company-about">
+            <span>About N'Kien</span>
+            We alwas care your oufit, care mix-ways that you put on your body.<br>
+                DYNAMIC | FASHION | TRENDY.
+        </p>
+
+        <div class="footer-icons">
+
+            <a href="#"><i class="bi bi-facebook"></i></a>
+            <a href="#"><i class="bi bi-instagram"></i></a>
+            <a href="#"><i class="bi bi-twitter"></i></a>
+            <a href="#"><i class="bi bi-twitch"></i></a>
+
+        </div>
+
+    </div>
+
+</footer>
+
 </body>
 </html>
