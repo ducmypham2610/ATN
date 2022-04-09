@@ -9,8 +9,6 @@
 <body>
 <div class="adding">
         <form action="" method="post" enctype="multipart/form-data">
-            <h1>@@</h1>
-            <h1> LAM Khanh</h1>
             <h2>Add Product</h2>
    
                         Product Name<input type="text" name="clothing_name">
