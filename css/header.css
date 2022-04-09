@@ -140,3 +140,8 @@ header {
     color: #ffffff;
     border-radius: 8px;
 }
+
+.logo {
+    width:100px;
+    height: auto;
+}
