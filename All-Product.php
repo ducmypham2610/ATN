@@ -20,7 +20,7 @@
     <header>
         <div class="head--left">
             <!-- LOGO -->
-            <img src="./img/nk.jpg" alt="LOGO">
+            <img src="./img/nk.jpg" alt="LOGO" class="logo">
         </div>
          
         <div class="head--right">
@@ -84,7 +84,7 @@
                     <a href="">Girls</a>
                 </nav>
                 <hr>
-                <h1>Sneaker</h1>
+                <h1>Categories</h1>
                 <ul class="sneaker-menu">
                     <!-- <li>Vans</li>
                     <li>Converse</li>
