@@ -18,7 +18,7 @@
     <header>
         <div class="head--left">
             <!-- LOGO -->
-            <img src='./img/nk.jpg ' alt="LOGO">
+            <img src='./img/ATN.png ' alt="LOGO">
         </div>
          
         <div class="head--right">
@@ -163,7 +163,7 @@
 
     <div class="footer-left">
 
-        <img src="./img/nk.jpg" alt="LOGO">
+        <img src="./img/ATN.png" alt="LOGO">
 
         <p class="footer-links">
             <a href="#" class="link-1">Home</a>
