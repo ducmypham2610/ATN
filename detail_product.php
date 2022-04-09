@@ -26,7 +26,7 @@ require_once("connect.php");
   <header>
         <div class="head--left">
             <!-- LOGO -->
-            <img src='./img/nk.jpg ' alt="LOGO">
+            <img src='./img/ATN.png ' alt="LOGO">
         </div>
          
         <div class="head--right">
@@ -64,21 +64,10 @@ require_once("connect.php");
                     <a href="All-Product.php">All product</a>
 
                     <div class="dropdown">
-                        <button class="dropbtn">Clothing</button>
+                        <button class="dropbtn">Toy</button>
                         <div class="dropdown-content">
-                        <a href="#">Man</a>
-                        <a href="#">Woman</a>
-                        <a href="#">Unisex</a>
-                        </div>
-                      </div>
-
-                    <div class="dropdown">
-                        <button class="dropbtn">Sneaker</button>
-                        <div class="dropdown-content">
-                        <a href="#">Vans</a>
-                        <a href="#">Nike</a>
-                        <a href="#">Adidas</a>
-                        <a href="#">Converse</a>
+                        <a href="#">Boys</a>
+                        <a href="#">Girls</a>
                         </div>
                       </div>
                     
