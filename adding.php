@@ -97,7 +97,7 @@ textarea,
 
     <div class="adding">
         <form action="" method="post" enctype="multipart/form-data">
-            <h1>OK</h1>
+         
             <h2>Add Product</h2>
             <table >
                 <tr>
